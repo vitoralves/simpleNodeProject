@@ -1,0 +1,50 @@
+[
+    {
+        "id": "1",
+        "nome": "MacBook Pro (15 polegadas, 2018)",
+        "descricao": "Processador Intel Core i7 de seis núcleos de 8ª geração e 2,6 GHz Turbo Boost de até 4,3 GHz Radeon Pro 560X com memória GDDR5 de 4 GB Memória DDR4 de 16 GB com 2400 MHz Armazenamento SSD de 512 GB1 Tela Retina com True Tone Touch Bar e Touch ID Quatro portas Thunderbolt 3",
+        "valor": "24.599,00",
+        "modelo": "Touch Bar e Touch ID Processador de seis núcleos de 2,6 GHz  Armazenamento de 512 GB",
+        "imagem": "mbp2018-15.jpg"
+    },
+    {
+        "id": "2",
+        "nome": "MacBook Pro (15 polegadas, 2018)",
+        "descricao": "Processador Intel Core i7 de seis núcleos de 8ª geração e 2,2 GHz Turbo Boost de até 4,1 GHz Radeon Pro 555X com memória  GDDR5 de 4 GB Memória DDR4 de 16 GB com 2400 MHz Armazenamento SSD de 256 GB1 Tela Retina com True Tone Touch Bar e Touch ID Quatro portas Thunderbolt 3",
+        "valor": "21.299,00",
+        "modelo": "Touch Bar e Touch ID Processador de seis núcleos de 2,2 GHz Armazenamento de 256 GB",
+        "imagem": "mbp2018-15-2.jpg"
+    },
+    {
+        "id": "3",
+        "nome": "MacBook Pro (13 polegadas, 2018)",
+        "descricao": "Processador Intel Core i5 de quatro núcleos de 8ª geração e 2,3 GHz Turbo Boost de até 3,8 GHz Intel Iris Plus Graphics 655 Memória LPDDR3 de 8 GB com 2133 MHz Armazenamento SSD de 512 GB1 Tela Retina com True Tone Touch Bar e Touch ID Quatro portas Thunderbolt 3",
+        "valor": "17.799,00",
+        "modelo": "Touch Bar e Touch ID Processador de quatro núcleos de 2,3 GHz Armazenamento de 512 GB",
+        "imagem": "mbp2018-13.jpg"
+    },
+    {
+        "id": "4",
+        "nome": "MacBook Air",
+        "descricao": "O MacBook Air vem com processador Intel Core i5 Dual Core de quinta geração, que consome menos energia e garante maior desempenho. Com tecnologia Wi-Fi que opera com tecnologia ultrarrápida e alcance muito maior. O armazenamento em flash não só deixa o MacBook mais leve, mas também mais rápido que um disco rígido de 5400 RPM. A tela do MacBook Air possui apenas 4,86 milímetros de espessura e retroiluminação por LED que deixa as cores muito mais vibrantes, perfeita para assistir filmes. Aproveite o melhor de um notebook super potente, compacto, com teclado retroiluminado para que possa digitar com conforto em ambientes com pouca luz.",
+        "valor": "5.000,00",
+        "modelo": "MacBook Air Apple 13,3”, 8GB, SSD 128GB, Intel Core i5 dual core de 1,8GHz",
+        "imagem": "mb-air.jpg"
+    },
+    {
+        "id": "5",
+        "nome": "Apple iMac",
+        "descricao": "O novo desktop iMac oferece uma nova experiência. Mais desempenho: esse produto conta com uma tecnologia avançada, processadores ultrarrápidos, conectividade incrível. A transferência de dados e reprodução de vídeos é possível por meio de um único e rápido conector. Confira o desempenho incrível do iMac e faça muito mais, ao mesmo tempo, com nitidez e velocidade.",
+        "valor": "8.999,00",
+        "modelo": "iMac Apple 21,5 Intel Core i5 dual core 2,3GHz, 8GB - MMQA2BZ/A",
+        "imagem": "imac.jpg"
+    },
+    {
+        "id": "6",
+        "nome": "Apple mac mini",
+        "descricao": "O Mac mini vem com processadores incríveis para você aproveitar o melhor do seu Mac Apple e permite a configuração com armazenamento em flash rápido com PCIe ou Fusion Drive avançado. Com apps poderosos, você pode editar fotos e vídeos, compor música, criar apresentações e muito mais, sem precisar configurar nada. Programe as tarefas diárias e verifique seus e-mails, fazendo chamadas FaceTime com vídeo e navegação na web. Os gráficos Intel Iris e HD Graphics 5000 oferecem um desempenho gráfico até 90% mais rápido que a geração anterior. Com tudo isso, mais os recursos de conectividade, o Mac mini vai facilitar a sua vida!",
+        "valor": "4.500,00",
+        "modelo": "Mac mini Apple, Intel Core i5 Dual Core 2.6 GHz, 8GB, HD 1TB - MGEN2BZ/A",
+        "imagem": "macmini.jpg"
+    }
+]
